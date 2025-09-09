@@ -1,0 +1,73 @@
+1. Sets
+Q1.
+Let 
+A={1,2,3,4,5,6} and R={(x,y)∈A×A∣lcm(x,y)=12}.
+Find 
+𝑅 and determine whether it is symmetric, reflexive, and transitive.
+
+Q2.
+A class of 100 students study at least one of Physics, Chemistry, and Mathematics.
+Number of students studying exactly two subjects is 30,
+and the number of students studying all three is 10.
+If the number studying Physics only is 25 and Chemistry only is 20,
+find the number of students studying Mathematics only.
+
+Q3.
+Let 
+U=R, 
+A={x∣x^2−3x+2=0}, 
+B={x∣x^2−5x+6=0}, 
+C={x∣x^2−7x+12=0}.
+Find 
+(A∪B)∩C and draw a Venn diagram.
+ 
+Q4.
+Let 
+A=Z, and define 
+R by
+aRb⟺a−b is divisible by 7
+Prove that 
+R is an equivalence relation and write its equivalence classes for the set 
+{1,2,…,15}.
+
+Q5.
+Let 
+A={1,2,3,4,5,6} and 
+R={(a,b)∣a+b=7}.
+Check if 
+R is symmetric, reflexive, and transitive.
+
+Q6.
+The set 
+A={1,2,3,…,10} is partitioned into equivalence classes by the relation
+aRb⟺gcd(a,b)=1.
+Find the equivalence classes of
+R.
+
+3. Functions
+Q7.
+Let 
+f:R∖{2}→R∖{3} be defined by
+f(x)= x−23x+1.
+Prove that 
+f is one-one and onto, and find 
+f^ −1(x).
+
+Q8.
+If f(x)= 1−∣x−1∣, find the domain and range of f(x).
+
+Q9.
+Let 
+f:R→R be defined by 
+f(x)=x ^2+2ax+1.
+Find the set of all 
+a for which 
+f is strictly increasing in some interval of 
+R and strictly decreasing in another.
+
+Q10.
+Let 
+f(x)=x ^2 −4x+3 and  
+g(x)= x+1.
+Find 
+(g∘f)(x) and its domain.
